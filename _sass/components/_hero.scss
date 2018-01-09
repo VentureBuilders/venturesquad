@@ -1,0 +1,25 @@
+@keyframes fadeIn {
+    from {
+        transform: translateY(1%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0%);
+        opacity: 1;
+    }
+}
+
+.hero {
+
+    background: url('img/illustration.svg') right top no-repeat;
+    background-size: contain;
+
+    animation-duration: 1.25s;
+    animation-name: fadeIn;
+    animation-timing-function: ease-in-out;
+}
+
+.vs-logo {
+    max-width: 15rem;
+}

@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="783" height="819" viewBox="0 0 783 819">
+  <defs>
+    <polygon id="illustration-a" points="0 0 783 0 749.7 613.687 515.083 755.046 0 819"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="illustration-b" fill="#fff">
+      <use xlink:href="#illustration-a"/>
+    </mask>
+    <polygon fill="#60BFBF" points="259.284 86.822 783 0 749.7 613.687 515.083 755.046 0 819 135 184.423" mask="url(#illustration-b)" opacity=".2"/>
+    <g stroke="#404040" stroke-width=".9" mask="url(#illustration-b)" opacity=".2">
+      <g transform="translate(508.5 -.9)">
+        <circle cx="68.4" cy="154.8" r="3.6"/>
+        <circle cx="46.8" cy="154.8" r="3.6"/>
+        <circle cx="25.2" cy="154.8" r="3.6"/>
+        <circle cx="3.6" cy="154.8" r="3.6"/>
+        <circle cx="68.4" cy="133.2" r="3.6"/>
+        <circle cx="46.8" cy="133.2" r="3.6"/>
+        <circle cx="25.2" cy="133.2" r="3.6"/>
+        <circle cx="3.6" cy="133.2" r="3.6"/>
+        <circle cx="68.4" cy="111.6" r="3.6"/>
+        <circle cx="46.8" cy="111.6" r="3.6"/>
+        <circle cx="25.2" cy="111.6" r="3.6"/>
+        <circle cx="3.6" cy="111.6" r="3.6"/>
+        <circle cx="68.4" cy="90" r="3.6"/>
+        <circle cx="46.8" cy="90" r="3.6"/>
+        <circle cx="25.2" cy="90" r="3.6"/>
+        <circle cx="3.6" cy="90" r="3.6"/>
+        <circle cx="68.4" cy="68.4" r="3.6"/>
+        <circle cx="46.8" cy="68.4" r="3.6"/>
+        <circle cx="25.2" cy="68.4" r="3.6"/>
+        <circle cx="3.6" cy="68.4" r="3.6"/>
+        <circle cx="68.4" cy="46.8" r="3.6"/>
+        <circle cx="46.8" cy="46.8" r="3.6"/>
+        <circle cx="25.2" cy="46.8" r="3.6"/>
+        <circle cx="3.6" cy="46.8" r="3.6"/>
+        <circle cx="68.4" cy="25.2" r="3.6"/>
+        <circle cx="46.8" cy="25.2" r="3.6"/>
+        <circle cx="25.2" cy="25.2" r="3.6"/>
+        <circle cx="3.6" cy="25.2" r="3.6"/>
+        <circle cx="68.4" cy="3.6" r="3.6"/>
+        <circle cx="46.8" cy="3.6" r="3.6"/>
+        <circle cx="25.2" cy="3.6" r="3.6"/>
+        <circle cx="3.6" cy="3.6" r="3.6"/>
+        <circle cx="68.4" cy="327.6" r="3.6"/>
+        <circle cx="46.8" cy="327.6" r="3.6"/>
+        <circle cx="25.2" cy="327.6" r="3.6"/>
+        <circle cx="3.6" cy="327.6" r="3.6"/>
+        <circle cx="68.4" cy="306" r="3.6"/>
+        <circle cx="46.8" cy="306" r="3.6"/>
+        <circle cx="25.2" cy="306" r="3.6"/>
+        <circle cx="3.6" cy="306" r="3.6"/>
+        <circle cx="68.4" cy="284.4" r="3.6"/>
+        <circle cx="46.8" cy="284.4" r="3.6"/>
+        <circle cx="25.2" cy="284.4" r="3.6"/>
+        <circle cx="3.6" cy="284.4" r="3.6"/>
+        <circle cx="68.4" cy="262.8" r="3.6"/>
+        <circle cx="46.8" cy="262.8" r="3.6"/>
+        <circle cx="25.2" cy="262.8" r="3.6"/>
+        <circle cx="3.6" cy="262.8" r="3.6"/>
+        <circle cx="68.4" cy="241.2" r="3.6"/>
+        <circle cx="46.8" cy="241.2" r="3.6"/>
+        <circle cx="25.2" cy="241.2" r="3.6"/>
+        <circle cx="3.6" cy="241.2" r="3.6"/>
+        <circle cx="68.4" cy="219.6" r="3.6"/>
+        <circle cx="46.8" cy="219.6" r="3.6"/>
+        <circle cx="25.2" cy="219.6" r="3.6"/>
+        <circle cx="3.6" cy="219.6" r="3.6"/>
+        <circle cx="68.4" cy="198" r="3.6"/>
+        <circle cx="46.8" cy="198" r="3.6"/>
+        <circle cx="25.2" cy="198" r="3.6"/>
+        <circle cx="3.6" cy="198" r="3.6"/>
+        <circle cx="68.4" cy="176.4" r="3.6"/>
+        <circle cx="46.8" cy="176.4" r="3.6"/>
+        <circle cx="25.2" cy="176.4" r="3.6"/>
+        <circle cx="3.6" cy="176.4" r="3.6"/>
+        <circle cx="154.8" cy="154.8" r="3.6"/>
+        <circle cx="133.2" cy="154.8" r="3.6"/>
+        <circle cx="111.6" cy="154.8" r="3.6"/>
+        <circle cx="90" cy="154.8" r="3.6"/>
+        <circle cx="154.8" cy="133.2" r="3.6"/>
+        <circle cx="133.2" cy="133.2" r="3.6"/>
+        <circle cx="111.6" cy="133.2" r="3.6"/>
+        <circle cx="90" cy="133.2" r="3.6"/>
+        <circle cx="154.8" cy="111.6" r="3.6"/>
+        <circle cx="133.2" cy="111.6" r="3.6"/>
+        <circle cx="111.6" cy="111.6" r="3.6"/>
+        <circle cx="90" cy="111.6" r="3.6"/>
+        <circle cx="154.8" cy="90" r="3.6"/>
+        <circle cx="133.2" cy="90" r="3.6"/>
+        <circle cx="111.6" cy="90" r="3.6"/>
+        <circle cx="90" cy="90" r="3.6"/>
+        <circle cx="154.8" cy="68.4" r="3.6"/>
+        <circle cx="133.2" cy="68.4" r="3.6"/>
+        <circle cx="111.6" cy="68.4" r="3.6"/>
+        <circle cx="90" cy="68.4" r="3.6"/>
+        <circle cx="154.8" cy="46.8" r="3.6"/>
+        <circle cx="133.2" cy="46.8" r="3.6"/>
+        <circle cx="111.6" cy="46.8" r="3.6"/>
+        <circle cx="90" cy="46.8" r="3.6"/>
+        <circle cx="154.8" cy="25.2" r="3.6"/>
+        <circle cx="133.2" cy="25.2" r="3.6"/>
+        <circle cx="111.6" cy="25.2" r="3.6"/>
+        <circle cx="90" cy="25.2" r="3.6"/>
+        <circle cx="154.8" cy="3.6" r="3.6"/>
+        <circle cx="133.2" cy="3.6" r="3.6"/>
+        <circle cx="111.6" cy="3.6" r="3.6"/>
+        <circle cx="90" cy="3.6" r="3.6"/>
+        <circle cx="154.8" cy="327.6" r="3.6"/>
+        <circle cx="133.2" cy="327.6" r="3.6"/>
+        <circle cx="111.6" cy="327.6" r="3.6"/>
+        <circle cx="90" cy="327.6" r="3.6"/>
+        <circle cx="154.8" cy="306" r="3.6"/>
+        <circle cx="133.2" cy="306" r="3.6"/>
+        <circle cx="111.6" cy="306" r="3.6"/>
+        <circle cx="90" cy="306" r="3.6"/>
+        <circle cx="154.8" cy="284.4" r="3.6"/>
+        <circle cx="133.2" cy="284.4" r="3.6"/>
+        <circle cx="111.6" cy="284.4" r="3.6"/>
+        <circle cx="90" cy="284.4" r="3.6"/>
+        <circle cx="154.8" cy="262.8" r="3.6"/>
+        <circle cx="133.2" cy="262.8" r="3.6"/>
+        <circle cx="111.6" cy="262.8" r="3.6"/>
+        <circle cx="90" cy="262.8" r="3.6"/>
+        <circle cx="154.8" cy="241.2" r="3.6"/>
+        <circle cx="133.2" cy="241.2" r="3.6"/>
+        <circle cx="111.6" cy="241.2" r="3.6"/>
+        <circle cx="90" cy="241.2" r="3.6"/>
+        <circle cx="154.8" cy="219.6" r="3.6"/>
+        <circle cx="133.2" cy="219.6" r="3.6"/>
+        <circle cx="111.6" cy="219.6" r="3.6"/>
+        <circle cx="90" cy="219.6" r="3.6"/>
+        <circle cx="154.8" cy="198" r="3.6"/>
+        <circle cx="133.2" cy="198" r="3.6"/>
+        <circle cx="111.6" cy="198" r="3.6"/>
+        <circle cx="90" cy="198" r="3.6"/>
+        <circle cx="154.8" cy="176.4" r="3.6"/>
+        <circle cx="133.2" cy="176.4" r="3.6"/>
+        <circle cx="111.6" cy="176.4" r="3.6"/>
+        <circle cx="90" cy="176.4" r="3.6"/>
+      </g>
+    </g>
+    <polyline stroke="#404040" stroke-width=".9" points="421.2 0 421.2 102.757 493.301 174.858 493.301 673.136 466.825 699.611 466.825 764.781" mask="url(#illustration-b)" opacity=".2"/>
+    <polyline stroke="#404040" stroke-width=".9" points="431.1 -190.8 431.1 -88.043 503.201 -15.942 503.201 482.336 476.725 508.811 476.725 577.581" mask="url(#illustration-b)" opacity=".5" transform="matrix(-1 0 0 1 934.3 0)"/>
+    <polyline stroke="#404040" stroke-width=".9" points="493.2 -3.6 493.2 358.357 565.301 430.458 565.301 761.336" mask="url(#illustration-b)" opacity=".5" transform="matrix(-1 0 0 1 1058.5 0)"/>
+    <polyline stroke="#404040" stroke-width=".9" points="385.2 0 385.2 246.757 457.301 318.858 457.301 593.936 430.825 620.411 430.825 769.281" mask="url(#illustration-b)"/>
+    <rect width="26.1" height="26.1" x="371.7" y="55.8" fill="#099" mask="url(#illustration-b)" rx=".9"/>
+    <rect width="26.1" height="26.1" x="446.4" y="388.8" fill="#099" mask="url(#illustration-b)" rx=".9"/>
+    <rect width="26.1" height="26.1" x="398.7" y="255.6" fill="#099" mask="url(#illustration-b)" rx=".9"/>
+    <rect width="26.1" height="26.1" x="421.2" y="144.9" fill="#099" mask="url(#illustration-b)" rx=".9"/>
+    <rect width="26.1" height="26.1" x="480.6" y="231.3" fill="#099" mask="url(#illustration-b)" rx=".9"/>
+    <rect width="26.1" height="26.1" x="550.8" y="106.2" fill="#099" mask="url(#illustration-b)" rx=".9"/>
+  </g>
+</svg>
