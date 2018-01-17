@@ -43,6 +43,20 @@ img {
   width: 100%;
 }
 
+.max-50 {
+    width: 50%;
+    @include media-breakpoint-up(md) { width: 25%; };
+}
+
+.green-bg {
+    background-color: $green-dark;
+    color: $white;
+}
+
+.dark-bg {
+    background-color: $charcoal;
+    color: $white;
+}
 
 .border-b-dark { border-bottom: solid 1px $gray-dark; }
 .border-b-mid { border-bottom: solid 1px $gray-mid; }

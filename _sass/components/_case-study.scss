@@ -1,0 +1,14 @@
+.case-study {
+
+    @include media-breakpoint-up(lg) {
+        background-image: url('../uploads/case-study-img@2x.png');
+        background-repeat: no-repeat;
+        background-position: 125% 50%;
+        background-size: auto 80%;
+    };
+
+    @include media-breakpoint-up(xl) {
+        background-size: auto 85%;
+        background-position: 115% 50%;
+    };
+}

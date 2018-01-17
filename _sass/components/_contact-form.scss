@@ -1,0 +1,27 @@
+.form-group label {
+    @extend .heading-small;
+}
+
+.form-group input {
+    background-color: transparent;
+    border-radius: 0;
+    border: none;
+    border-bottom: solid 1px $white;
+    padding-left: $spacer;
+    @extend .text-large;
+    margin-bottom: $spacer;
+
+    &:active {
+        background-color: $gray-mid;
+    }
+    &:focus {
+        color: $charcoal;
+        background-color: $white;
+    }
+
+    &:valid {
+        color: $charcoal;
+        background-color: $gray-light;
+        border: solid 1px $green-light;
+    }
+}

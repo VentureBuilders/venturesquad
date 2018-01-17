@@ -1,3 +1,41 @@
-<div class="container">
-    <a class="w-100 d-block contact-block" href="{{ include.cta }}" title="Contact us">Contact Us</a>
+<div class="container-fluid dark-bg">
+    <div class="container py-4 py-lg-6">
+        <div class="row">
+            <div class="col-10 col-lg-5 mb-2">
+                <h2 class="heading-large">Get in touch</h2>
+                <p class="text-medium">We looking forward to discussing what we can do for you.</p>
+            </div>
+
+            <div class="col-12 col-lg-7">
+                <form action="https://formspree.io/{{ page.contact_email }}" method="post" autocomplete="on">
+                    <div class="row">
+                        <div class="col form-group">
+                            <label for="contactName">Name</label>
+                            <input type="text" class="form-control form-control-lg" name="Name" id="contactName" aria-describedby="nameHelp" placeholder="Enter name" required>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col form-group">
+                            <label for="contactCompany">Company</label>
+                            <input type="text" class="form-control form-control-lg" name="Company" id="contactCompany" aria-describedby="companyHelp" placeholder="Enter company" required>
+                        </div>
+                    </div>
+                    <div class="row">
+                      <div class="col form-group">
+                          <label for="contactEmail">Email address</label>
+                          <input type="email" class="form-control form-control-lg" name="Email" id="contactEmail" aria-describedby="emailHelp" placeholder="Enter email" required>
+                      </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col">
+                            <input type="hidden" name="_next" value="/thank-you.html" />
+                            <input type="hidden" name="_subject" value="New request from VentureBuilders.nl" />
+                            <button type="submit" value="submit" class="btn btn-primary">Submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
 </div>

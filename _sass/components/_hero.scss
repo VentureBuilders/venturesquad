@@ -1,25 +1,32 @@
 @keyframes fadeIn {
     from {
-        transform: translateY(1%);
+        // transform: translateY(1%);
         opacity: 0;
     }
 
     to {
-        transform: translateY(0%);
+        // transform: translateY(0%);
         opacity: 1;
     }
 }
 
 .hero {
-
-    background: url('img/illustration.svg') right top no-repeat;
-    background-size: contain;
-
     animation-duration: 1.25s;
     animation-name: fadeIn;
     animation-timing-function: ease-in-out;
+
+    @include media-breakpoint-up(lg) {
+        background: url('img/brand-illustration.svg') 85% 0% no-repeat;
+        background-size: contain;
+    }
 }
 
 .vs-logo {
     max-width: 15rem;
+}
+
+.hero .heading-super {
+    // @include media-breakpoint-only(md) { font-size: 3.75em; }
+    @include media-breakpoint-down(sm) { font-size: 2.75em; }
+    // @include media-breakpoint-only(xs) { font-size: 2.25em; }
 }

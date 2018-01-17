@@ -84,14 +84,20 @@ h6 {
 
 .quote {
     font-family: $font-family-serif;
-    line-height: 115%;
-    font-size: 2.25em;
+    line-height: 135%;
+    font-size: 1.75rem;
     font-weight: 400;
 }
 
 .quote-large {
     @extend .quote;
     font-size: 3em;
+}
+
+
+.quote-small {
+    @extend .quote;
+    font-size: 1.25em;
 }
 
 
