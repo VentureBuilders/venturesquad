@@ -16,7 +16,7 @@ layout: global
             {% assign client_logos = site.static_files | where: "image", true %}
             {% for logo in client_logos %}
                 {% if logo.basename contains 'client-logo' %}
-                    <li class="py-1 px-1"><img class="client-logo" src="{{ logo.path }}" alt="{{ logo.basename }}"></li>
+                    <li class="py-1 px-1"><img class="client-logo" src="assets/img/{{ logo.name }}" alt="{{ logo.basename }}"></li>
                 {% endif %}
             {% endfor %}
         </ul>
