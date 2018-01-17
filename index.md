@@ -55,5 +55,6 @@ Case_Study_Stats:
     - number: -75%
       label: Operational cost
 
+contact_email: michael@venturebuilders.nl
 layout: home
 ---
