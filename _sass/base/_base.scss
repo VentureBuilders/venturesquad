@@ -49,7 +49,8 @@ img {
 }
 
 .client-logo {
-    max-width: 190px;
+    max-width: 150px;
+    @include media-breakpoint-up(md) { max-width: 180px; };
 }
 
 .green-bg {
