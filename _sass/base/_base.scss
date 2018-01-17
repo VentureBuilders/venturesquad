@@ -48,6 +48,10 @@ img {
     @include media-breakpoint-up(md) { width: 25%; };
 }
 
+.client-logo {
+    max-width: 190px;
+}
+
 .green-bg {
     background-color: $green-dark;
     color: $white;
