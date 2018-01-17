@@ -16,7 +16,7 @@ layout: global
             {% assign client_logos = site.static_files | where: "image", true %}
             {% for logo in client_logos %}
                 {% if logo.basename contains 'client-logo' %}
-                    <li class="py-1 px-1"><img src="{{ logo.path }}" alt="{{ logo.basename }}"></li>
+                    <li class="py-1 px-1"><img class="client-logo" src="assets/img/{{ logo.name }}" alt="{{ logo.basename }}"></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -57,7 +57,7 @@ layout: global
                 <div class="col-12 col-lg-7 list-unstyled d-flex flex-wrap flex-row py-3 py-lg-5">
                     <blockquote class="quote-small col-12 mb-3 mb-lg-5">{{ page.Case_Study_Heading }}</blockquote>
                     {% for stat in page.Case_Study_Stats %}
-                        <div class="col-4 col-lg-5">
+                        <div class="col-5 col-lg-6">
                             <h2 class="heading-super">{{ stat.number }}</h2>
                             <h6 class="heading-small">{{ stat.label }}</h6>
                         </div>
