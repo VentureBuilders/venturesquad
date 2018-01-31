@@ -49,7 +49,7 @@ img {
 }
 
 .client-logo {
-    max-width: 110px;
+    max-width: 120px;
 
     @include media-breakpoint-up(lg) { max-width: 180px; };
 }
@@ -67,9 +67,3 @@ img {
 .border-b-dark { border-bottom: solid 1px $gray-dark; }
 .border-b-mid { border-bottom: solid 1px $gray-mid; }
 .border-b-light { border-bottom: solid 1px $gray-light; }
-
-
-
-// .svg-path {
-//     stroke-dasharray: 100;
-// }
