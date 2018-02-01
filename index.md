@@ -1,6 +1,7 @@
 ---
 title: Home
 headline: A digitally-focused team of passionate builders.
+contact_email: michael@venturebuilders.nl
 subhead: We are a full-service studio that helps build and scale industry wide companies.
 Service_Heading: Experts for one step, or every step
 Service_Subhead: We have the right people available for you for every task needed
