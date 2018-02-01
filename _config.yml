@@ -1,6 +1,14 @@
 ---
 title: VentureSquad
+<<<<<<< HEAD
 timezone: Europe/Amsterdam
+=======
+<<<<<<< HEAD
+timezone: UTC
+=======
+timezone: Europe/Amsterdam
+>>>>>>> origin/gh-pages
+>>>>>>> gh-pages
 collections:
   posts:
     title: Posts
@@ -19,5 +27,27 @@ defaults:
     path: ''
     type: pages
   values:
+<<<<<<< HEAD
     layout: page
 permalink: pretty
+=======
+<<<<<<< HEAD
+    Position: ''
+    Venture: ''
+    linkedin:
+    twitter:
+permalink: date
+author: VentureSquad
+email: info@venturebuilders.nl
+description: 'Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description. '
+markdown: kramdown
+exclude:
+- Gemfile
+- Gemfile.lock
+=======
+    layout: page
+permalink: pretty
+>>>>>>> origin/gh-pages
+>>>>>>> gh-pages
