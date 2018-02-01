@@ -73,3 +73,4 @@ Case_Study_Stats:
   label: Operational cost
 layout: home
 ---
+
