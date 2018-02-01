@@ -13,11 +13,8 @@ layout: global
         </div>
         <h3 class="heading-medium text-center my-3">Some of our clients</h3>
         <ul class="list-unstyled d-flex flex-wrap align-items-center flex-lg-row justify-content-around">
-            {% assign client_logos = site.static_files | where: "image", true %}
-            {% for logo in client_logos %}
-                {% if logo.basename contains 'client-logo' %}
-                    <li class="py-1 px-1"><img class="client-logo" src="assets/img/{{ logo.name }}" alt="{{ logo.basename }}"></li>
-                {% endif %}
+            {% for logo in page.Clients %}
+                <li class="py-1 px-1"><img class="client-logo" src="/uploads/{{ logo.path }}" alt="{{ logo.name }}"></li>
             {% endfor %}
         </ul>
     </section>

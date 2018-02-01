@@ -5,6 +5,17 @@ subhead: We are a full-service studio that helps build and scale industry wide c
 Service_Heading: Experts for one step, or every step
 Service_Subhead: We have the right people available for you for every task needed
   in growing your company online.
+Clients:
+- path: client-logo-1.svg
+  name: Taxi2Airport
+- path: client-logo-2.svg
+  name: Contexta
+- path: client-logo-3.svg
+  name: HelloSpecial
+- path: client-logo-4.svg
+  name: Traveldeal
+- path: client-logo-5.svg
+  name: Euroknaller
 Services:
 - heading: Design
   description: Design for your users at every point of contact.  Our specialists can
@@ -61,4 +72,3 @@ Case_Study_Stats:
   label: Operational cost
 layout: home
 ---
-
