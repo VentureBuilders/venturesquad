@@ -15,19 +15,6 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-<<<<<<< HEAD
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-    permalink: pretty
-    Position: ''
-    Venture: ''
-    linkedin:
-    twitter:
-=======
->>>>>>> gh-pages
 permalink: date
 author: VentureSquad
 email: info@venturebuilders.nl
