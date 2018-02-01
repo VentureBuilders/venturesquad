@@ -14,7 +14,7 @@ layout: global
         <h3 class="heading-medium text-center my-3">Some of our clients</h3>
         <ul class="list-unstyled d-flex flex-wrap align-items-center flex-lg-row justify-content-around">
             {% for logo in page.Clients %}
-                <li class="py-1 px-1"><img class="client-logo" src="/uploads/{{ logo.path }}" alt="{{ logo.name }}"></li>
+                <li class="py-1 px-1"><img class="client-logo" src="{{ logo.path }}" alt="{{ logo.name }}"></li>
             {% endfor %}
         </ul>
     </section>
