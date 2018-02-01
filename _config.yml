@@ -1,5 +1,5 @@
 ---
-title: VentureBuilders
+title: VentureSquad
 timezone: UTC
 collections:
   posts:
@@ -32,7 +32,7 @@ defaults:
     linkedin:
     twitter:
 permalink: date
-author: VentureBuilders
+author: VentureSquad
 email: info@venturebuilders.nl
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
