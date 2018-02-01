@@ -1,10 +1,6 @@
 ---
 title: VentureSquad
-<<<<<<< HEAD
-timezone: UTC
-=======
 timezone: Europe/Amsterdam
->>>>>>> origin/gh-pages
 collections:
   posts:
     title: Posts
@@ -23,11 +19,12 @@ defaults:
     path: ''
     type: pages
   values:
-<<<<<<< HEAD
+    layout: page
+    permalink: pretty
     Position: ''
     Venture: ''
-    linkedin:
-    twitter:
+    linkedin: 
+    twitter: 
 permalink: date
 author: VentureSquad
 email: info@venturebuilders.nl
@@ -38,7 +35,3 @@ markdown: kramdown
 exclude:
 - Gemfile
 - Gemfile.lock
-=======
-    layout: page
-permalink: pretty
->>>>>>> origin/gh-pages
