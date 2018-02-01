@@ -23,8 +23,8 @@ defaults:
     permalink: pretty
     Position: ''
     Venture: ''
-    linkedin:
-    twitter:
+    linkedin: 
+    twitter: 
 permalink: date
 author: VentureSquad
 email: info@venturebuilders.nl
