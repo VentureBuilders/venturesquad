@@ -1,14 +1,6 @@
 ---
 title: VentureSquad
-<<<<<<< HEAD
 timezone: Europe/Amsterdam
-=======
-<<<<<<< HEAD
-timezone: UTC
-=======
-timezone: Europe/Amsterdam
->>>>>>> origin/gh-pages
->>>>>>> gh-pages
 collections:
   posts:
     title: Posts
@@ -27,11 +19,8 @@ defaults:
     path: ''
     type: pages
   values:
-<<<<<<< HEAD
     layout: page
-permalink: pretty
-=======
-<<<<<<< HEAD
+    permalink: pretty
     Position: ''
     Venture: ''
     linkedin:
@@ -46,8 +35,3 @@ markdown: kramdown
 exclude:
 - Gemfile
 - Gemfile.lock
-=======
-    layout: page
-permalink: pretty
->>>>>>> origin/gh-pages
->>>>>>> gh-pages
