@@ -1,9 +1,5 @@
 ---
 title: VentureSquad
-<<<<<<< HEAD
-=======
-baseurl: ""
->>>>>>> gh-pages
 timezone: Europe/Amsterdam
 collections:
   posts:
@@ -28,8 +24,8 @@ defaults:
     permalink: pretty
     Position: ''
     Venture: ''
-    linkedin: 
-    twitter: 
+    linkedin:
+    twitter:
 =======
 >>>>>>> gh-pages
 permalink: date
