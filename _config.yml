@@ -1,6 +1,10 @@
 ---
 title: VentureSquad
+<<<<<<< HEAD
 timezone: UTC
+=======
+timezone: Europe/Amsterdam
+>>>>>>> origin/gh-pages
 collections:
   posts:
     title: Posts
@@ -10,23 +14,16 @@ collections:
     output: true
 defaults:
 - scope:
-    path: assets/img
+    path: ''
+    type: posts
   values:
-    image: true
+    layout: post
+    permalink: "/posts/:title/"
 - scope:
     path: ''
-    type: ventures
+    type: pages
   values:
-    layout: venture-detail
-- scope:
-    path: ''
-    type: vacancies
-  values:
-    layout: vacancy
-- scope:
-    path: ''
-    type: team
-  values:
+<<<<<<< HEAD
     Position: ''
     Venture: ''
     linkedin:
@@ -41,3 +38,7 @@ markdown: kramdown
 exclude:
 - Gemfile
 - Gemfile.lock
+=======
+    layout: page
+permalink: pretty
+>>>>>>> origin/gh-pages
