@@ -16,7 +16,7 @@
     animation-timing-function: ease-in-out;
 
     @include media-breakpoint-up(lg) {
-        background: url('img/brand-illustration.svg') 95% 0% no-repeat;
+        background: url('img/brand-illustration.svg') 100% 0% no-repeat;
         background-size: contain;
     }
 }
