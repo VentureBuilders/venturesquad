@@ -17,6 +17,10 @@ Clients:
   name: Traveldeal
 - path: "/uploads/client-logo-5.svg"
   name: Euroknaller
+- path: "/uploads/client-logo-6.svg"
+  name: Overstappen
+- path: "/uploads/client-logo-7.svg"
+  name: LiveFootballTickets
 Services:
 - heading: Design
   description: Design for your users at every point of contact.  Our specialists can
@@ -73,4 +77,3 @@ Case_Study_Stats:
   label: Operational cost
 layout: home
 ---
-
