@@ -7,12 +7,12 @@ layout: global
     {% include hero.html headline=page.headline subhead=page.subhead %}
 
     <section class="container py-3 py-lg-5">
-        <div class="d-flex flex-row justify-content-center align-items-center vb-logo pt-1 pb-3 pb-lg-6">
+        <!-- <div class="d-flex flex-row justify-content-center align-items-center vb-logo pt-1 pb-3 pb-lg-6">
             <h6 class="heading-tiny text-muted text-center">part of </h6>
             <img class="max-50 ml-1" src='assets/img/venturebuilders-logo.svg' alt="VentureBuilders">
-        </div>
+        </div> -->
         <h3 class="heading-medium text-center my-3">Some of our clients</h3>
-        <ul class="list-unstyled d-flex flex-wrap align-items-center flex-lg-row justify-content-around">
+        <ul class="list-unstyled d-flex flex-wrap align-items-center flex-lg-row justify-content-center">
             {% for logo in page.Clients %}
                 <li class="py-1 px-1"><img class="client-logo" src="{{ logo.path }}" alt="{{ logo.name }}"></li>
             {% endfor %}
